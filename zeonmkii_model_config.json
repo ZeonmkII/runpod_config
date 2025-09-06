@@ -1,24 +1,48 @@
 {
   "checkpoints": [],
   "vae": [
-    "https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors"
+    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors"
   ],
   "unet": [],
   "diffusion_models": [
-    "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/T2V/Wan2_2-T2V-A14B_HIGH_fp8_e4m3fn_scaled_KJ.safetensors",
-    "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/T2V/Wan2_2-T2V-A14B-LOW_fp8_e4m3fn_scaled_KJ.safetensors",
-    "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/TI2V/Wan2_2-TI2V-5B_fp8_e4m3fn_scaled_KJ.safetensors"
+    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_high_noise_14B_fp16.safetensors",
+    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp16.safetensors"
   ],
   "text_encoders": [
-    "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-bf16.safetensors"
+    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp16.safetensors"
   ],
   "loras": [
-    "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan22-Lightning/Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_HIGH_fp16.safetensors",
-    "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan22-Lightning/Wan2.2-Lightning_T2V-v1.1-A14B-4steps-lora_LOW_fp16.safetensors",
-    "https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/CineScale/Wan2.1_T2V_14B_CineScale_ntk20_lora_rank16_fp16.safetensors"
+    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_t2v_lightx2v_4steps_lora_v1.1_high_noise.safetensors",
+    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_t2v_lightx2v_4steps_lora_v1.1_low_noise.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/T2V-I2V_h4nd_p4nties_v3.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/Wan_Pussy_LoRA_Hearmeman.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/dgyHairPull_WAN_run2-000350_converted.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/dildo_ride-14b-v2.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/fingering_for_wan_v1.0_e184.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/genitals_helper_v1.0_e219.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/str1p_v1.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/wan-t2v-i2v-anal-combined-e50.safetensors",
+    "https://huggingface.co/kayte0342/wan2.1_lora/resolve/main/wan_female_masturbation.safetensors",
+    "https://huggingface.co/dnad244/wan_random_loras/resolve/main/SuddenOutfitChange_V03.safetensors",
+    "https://huggingface.co/dnad244/wan_random_loras/resolve/main/Top_Off_Wan2.safetensors",
+    "https://huggingface.co/dnad244/wan_random_loras/resolve/main/Wan_ClothesOnOff_Trend.safetensors",
+    "https://huggingface.co/dnad244/wan_random_loras/resolve/main/pulldown-shura-final-000006.safetensors",
+    "https://huggingface.co/dnad244/wan_random_loras/resolve/main/rip-shura-000006.safetensors",
+    "https://huggingface.co/dnad244/wan_random_loras/resolve/main/woman_undressing_v1.0_wan14b_epoch048.safetensors",
+    "https://huggingface.co/dnad244/wan_loras/resolve/main/doggyPOV_v1_1.safetensors",
+    "https://huggingface.co/dnad244/wan_loras/resolve/main/doggy_side_view.safetensors",
+    "https://huggingface.co/dnad244/wan_loras/resolve/main/facials60.safetensors",
+    "https://huggingface.co/jermaloves69/hun/resolve/main/BBCblowjob70.safetensors",
+    "https://huggingface.co/jermaloves69/hun/resolve/main/Blowjob_with_man_in_frame100.safetensors",
+    "https://huggingface.co/jermaloves69/hun/resolve/main/WAN-facefuck-epoch110%2C%20fast%20speed%20full%20insertion%2C%20man%20has%20sex%20with%20womans%20mouth.safetensors",
+    "https://huggingface.co/jermaloves69/hun/resolve/main/standingdoggy-shura-000005.safetensors",
+    "https://huggingface.co/jermaloves69/hun/resolve/main/wan_pov_missionary_i2v_v1.1.safetensors"
   ],
   "upscale_models": [
-    "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
+    "https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth",
+    "https://huggingface.co/airomix/models-moved/resolve/main/4x-UltraSharp.pth",
+    "https://huggingface.co/airomix/models-moved/resolve/main/4x-NMKD-Siax_200k.pth",
+    "https://github.com/Phhofm/models/raw/main/2xLexicaSwinIR/2xLexicaSwinIR.pth"
   ],
   "controlnet": [],
   "clip_vision": [],
