@@ -5,8 +5,8 @@
   ],
   "unet": [],
   "diffusion_models": [
-    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_high_noise_14B_fp16.safetensors",
-    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp16.safetensors"
+    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_high_noise_14B_fp8_scaled.safetensors",
+    "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_t2v_low_noise_14B_fp8_scaled.safetensors"
   ],
   "text_encoders": [
     "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp16.safetensors"
@@ -31,10 +31,8 @@
     "https://huggingface.co/dnad244/wan_random_loras/resolve/main/woman_undressing_v1.0_wan14b_epoch048.safetensors",
     "https://huggingface.co/dnad244/wan_loras/resolve/main/doggyPOV_v1_1.safetensors",
     "https://huggingface.co/dnad244/wan_loras/resolve/main/doggy_side_view.safetensors",
-    "https://huggingface.co/dnad244/wan_loras/resolve/main/facials60.safetensors",
     "https://huggingface.co/jermaloves69/hun/resolve/main/BBCblowjob70.safetensors",
     "https://huggingface.co/jermaloves69/hun/resolve/main/Blowjob_with_man_in_frame100.safetensors",
-    "https://huggingface.co/jermaloves69/hun/resolve/main/WAN-facefuck-epoch110%2C%20fast%20speed%20full%20insertion%2C%20man%20has%20sex%20with%20womans%20mouth.safetensors",
     "https://huggingface.co/jermaloves69/hun/resolve/main/standingdoggy-shura-000005.safetensors",
     "https://huggingface.co/jermaloves69/hun/resolve/main/wan_pov_missionary_i2v_v1.1.safetensors"
   ],
